@@ -1,0 +1,6 @@
+{
+  "name": "njima-net-pay",
+  "version": "1.0.0",
+  "description": "Automated data reselling C2B webhook handler",
+  "dependencies": {}
+}
